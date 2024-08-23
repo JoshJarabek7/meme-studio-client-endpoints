@@ -1,0 +1,7 @@
+pydantic==2.8.2
+fastapi==0.112.1
+azure-storage-blob==12.22.0
+azure-identity==1.17.1
+runpod==1.7.0
+loguru==0.7.2
+pydantic-settings==2.4.0
